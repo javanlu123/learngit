@@ -1,1 +1,2 @@
-git is a version control
+git is a version contro
+git is very usefull
